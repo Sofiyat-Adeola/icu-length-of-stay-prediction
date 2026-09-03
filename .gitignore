@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data
+*.csv
+*.csv.gz
+*.parquet
+DATA/
+
+# Environments
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Databricks exports
+*.dbc
+
